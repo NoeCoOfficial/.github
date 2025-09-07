@@ -11,7 +11,7 @@ We are a partnership of two developers looking to find joy in making video games
 > > Discord: [@goatsaretb_51107](https://discord.com/users/1188276399048503346)</br>
 > > GitHub: [@GoatsAreTB](https://github.com/GoatsAreTB)</br>
 
-## 🌟 Highlighted Repositories
+## Highlighted Repositories
 
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 
